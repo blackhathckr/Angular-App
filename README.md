@@ -1,5 +1,9 @@
 # AngularApp
 
+Tech-Stack:
+Front-End Javascript Framework - AngularJS
+HTML ( Hyper Text Markup Language ), SCSS ( Sassy Cascading Style Sheets ) and TypeScript ( Client-Side )
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.8.
 
 ## Development server
